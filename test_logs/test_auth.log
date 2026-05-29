@@ -1,0 +1,9 @@
+May 19 08:12:05 ubuntu sshd[12345]: Accepted publickey for yauheni from 192.168.1.50 port 54321 ssh2: RSA SHA256:abc123xyz
+May 19 08:15:30 ubuntu sudo: yauheni : TTY=pts/0 ; USER=root ; COMMAND=/bin/systemctl restart nginx
+May 19 09:22:11 ubuntu sshd[12450]: Failed password for invalid user admin from 203.0.113.5 port 39420 ssh2
+May 19 09:22:15 ubuntu sshd[12450]: Failed password for invalid user admin from 203.0.113.5 port 39425 ssh2
+May 19 09:22:20 ubuntu sshd[12450]: Failed password for invalid user root from 203.0.113.5 port 39430 ssh2
+May 19 09:22:25 ubuntu sshd[12450]: Failed password for invalid user backup from 203.0.113.5 port 39435 ssh2
+May 19 09:22:30 ubuntu sshd[12450]: Failed password for invalid user user from 203.0.113.5 port 39440 ssh2
+May 19 14:02:10 ubuntu sudo: attacker : user NOT in sudoers ; TTY=pts/1 ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+May 19 23:45:12 ubuntu sshd[13000]: Accepted password for yauheni from 198.51.100.12 port 50221 ssh2

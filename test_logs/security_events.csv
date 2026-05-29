@@ -1,0 +1,15 @@
+2026-05-19 08:10:22,4624,yauheni,192.168.1.10,Interactive logon
+2026-05-19 10:14:01,4625,Administrator,198.51.100.88,Failed logon type 10
+2026-05-19 10:14:09,4625,Administrator,198.51.100.88,Failed logon type 10
+2026-05-19 10:14:17,4625,guest,198.51.100.88,Failed logon type 10
+2026-05-19 10:14:25,4625,support,198.51.100.88,Failed logon type 10
+2026-05-19 10:14:33,4625,Administrator,198.51.100.88,Failed logon type 10
+2026-05-19 11:30:45,4720,backdoor_temp,10.0.0.5,New user account created
+2026-05-19 12:05:00,1102,malicious_actor,10.0.0.5,Security audit log cleared
+2026-05-19 14:22:10,4624,yauheni,192.168.1.10,Interactive logon
+2026-05-19 15:45:33,4625,svcadmin,91.121.0.1,Failed logon type 3
+2026-05-19 15:45:35,4625,svcadmin,91.121.0.1,Failed logon type 3
+2026-05-19 15:45:37,4625,svcadmin,91.121.0.1,Failed logon type 3
+2026-05-19 15:45:39,4625,sqlservice,91.121.0.1,Failed logon type 3
+2026-05-19 15:45:41,4625,sqlservice,91.121.0.1,Failed logon type 3
+2026-05-19 23:58:01,4624,yauheni,198.51.100.99,Remote logon after hours

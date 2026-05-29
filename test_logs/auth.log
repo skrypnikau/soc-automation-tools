@@ -1,0 +1,18 @@
+May 19 08:12:05 ubuntu-target sshd[1234]: Accepted password for yauheni from 192.168.1.50 port 54321 ssh2
+May 19 09:22:11 ubuntu-target sshd[2001]: Failed password for root from 203.0.113.5 port 44444 ssh2
+May 19 09:22:19 ubuntu-target sshd[2002]: Failed password for invalid user admin from 203.0.113.5 port 44445 ssh2
+May 19 09:22:25 ubuntu-target sshd[2003]: Failed password for invalid user user from 203.0.113.5 port 44446 ssh2
+May 19 09:22:31 ubuntu-target sshd[2004]: Failed password for invalid user backup from 203.0.113.5 port 44447 ssh2
+May 19 09:22:38 ubuntu-target sshd[2005]: Failed password for root from 203.0.113.5 port 44448 ssh2
+May 19 09:22:45 ubuntu-target sshd[2006]: Failed password for root from 203.0.113.5 port 44449 ssh2
+May 19 10:05:01 ubuntu-target sshd[2100]: Failed password for invalid user test from 45.33.32.156 port 11111 ssh2
+May 19 10:05:03 ubuntu-target sshd[2101]: Failed password for invalid user oracle from 45.33.32.156 port 11112 ssh2
+May 19 10:05:05 ubuntu-target sshd[2102]: Failed password for invalid user postgres from 45.33.32.156 port 11113 ssh2
+May 19 10:05:07 ubuntu-target sshd[2103]: Failed password for invalid user mysql from 45.33.32.156 port 11114 ssh2
+May 19 10:05:09 ubuntu-target sshd[2104]: Failed password for invalid user deploy from 45.33.32.156 port 11115 ssh2
+May 19 10:05:11 ubuntu-target sshd[2105]: Failed password for invalid user git from 45.33.32.156 port 11116 ssh2
+May 19 13:15:44 ubuntu-target sshd[3000]: Accepted password for yauheni from 192.168.1.50 port 54399 ssh2
+May 19 14:02:10 ubuntu-target sudo: attacker : user NOT in sudoers ; TTY=pts/1 ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+May 19 14:03:22 ubuntu-target sudo: yauheni : TTY=pts/0 ; USER=root ; COMMAND=/usr/bin/apt update
+May 19 14:10:55 ubuntu-target sudo: yauheni : TTY=pts/0 ; USER=root ; COMMAND=/bin/systemctl restart sshd
+May 19 23:45:12 ubuntu-target sshd[4001]: Accepted password for yauheni from 198.51.100.12 port 54500 ssh2
