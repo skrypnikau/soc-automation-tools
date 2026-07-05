@@ -103,3 +103,11 @@ python security_log_analyzer.py --file C:\Windows\System32\Winevt\Logs\Security.
     [+] 2026-05-19 08:12:05 - Login by yauheni from 192.168.1.50
     [+] 2026-05-19 23:45:12 - Login by yauheni from 198.51.100.12 [ANOMALOUS TIMING]
 ```
+
+---
+
+## Author
+
+**Yauheni Skrypnikau** — Career-changer building blue-team / SOC skills  
+*   **LinkedIn:** [linkedin.com/in/skrypnikau](https://www.linkedin.com/in/skrypnikau)
+*   **GitHub:** [github.com/skrypnikau](https://github.com/skrypnikau)
